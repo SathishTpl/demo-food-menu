@@ -1,0 +1,132 @@
+.menu-template {
+    background-color: #F9C92B;
+    height: 100%;
+
+    .menu-title {
+        span {
+            font-weight: 500;
+            font-size: 23px;
+        }
+    }
+
+    .menu-inner-card {
+        background-color: #38383A;
+        max-width: 980px;
+        height: max-content;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 100px !important;
+        position: relative;
+
+        .ff-icon {
+            width: 100px;
+            height: 100px;
+            display: block;
+            position: absolute;
+            top: 30px;
+            left: 30px;
+        }
+
+        .tomotto-icon {
+            display: block;
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 80px;
+            left: 225px;
+            transform: rotate(-75deg);
+        }
+
+        .tomotto-right-icon {
+            display: block;
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 29px;
+            right: 220px;
+            transform: rotate(-67deg);
+        }
+
+        .tomotto-right-icon-2 {
+            display: block;
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 85px;
+            right: 141px;
+            transform: rotate(8deg);
+        }
+
+        .menu-text {
+            font-size: 115px;
+            letter-spacing: -5px;
+            color: #FFFFFF;
+        }
+
+        .menu-list {
+            color: #FFFFFF;
+
+            .menu-list-item {
+                font-size: 1.2rem;
+                font-weight: 700;
+            }
+
+            .menu-list-price {
+                font-size: 1.2rem;
+                font-weight: 700;
+                color: #E7A12F;
+            }
+        }
+
+        .drinks-title {
+            letter-spacing: -2px;
+            color: #E7A12F;
+        }
+
+        .drinks-name {
+            color: #FFFFFF;
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+
+        .drinks-price {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #E7A12F;
+        }
+
+        .french-fries-icon {
+            display: block;
+            position: absolute;
+            height: 175px;
+            top: 10px;
+            right: 130px;
+            z-index: 1;
+            // transform: rotate(90deg);
+        }
+
+        .fruit-paree {
+            display: block;
+            position: absolute;
+            top: 90px;
+            left: 20px;
+            z-index: 2;
+        }
+
+        .tomato-soup {
+            display: block;
+            position: absolute;
+            z-index: 2;
+            top: 90px;
+            left: 205px;
+        }
+        .tomato-soup-2 {
+            display: block;
+            position: absolute;
+            z-index: 2;
+            top: 90px;
+            left: 390px;
+        }
+
+    }
+}
