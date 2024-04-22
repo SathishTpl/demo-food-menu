@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SathishTpl/demo-food-menu.git/static/css/main.c66881c5.css",
+    "main.js": "/SathishTpl/demo-food-menu.git/static/js/main.76efe3ed.js",
+    "static/media/tomatto-removebg-preview.png": "/SathishTpl/demo-food-menu.git/static/media/tomatto-removebg-preview.7dca5938f39f0cd4b10b.png",
+    "static/media/fruit-paree-removebg-preview.png": "/SathishTpl/demo-food-menu.git/static/media/fruit-paree-removebg-preview.c8daa56dd9d66981e831.png",
+    "static/media/fast-food-icon.jpeg": "/SathishTpl/demo-food-menu.git/static/media/fast-food-icon.787659e6b16effeb2885.jpeg",
+    "static/media/french-fries.jpeg": "/SathishTpl/demo-food-menu.git/static/media/french-fries.8e470a8c16a5ecfabd80.jpeg",
+    "index.html": "/SathishTpl/demo-food-menu.git/index.html",
+    "main.c66881c5.css.map": "/SathishTpl/demo-food-menu.git/static/css/main.c66881c5.css.map",
+    "main.76efe3ed.js.map": "/SathishTpl/demo-food-menu.git/static/js/main.76efe3ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66881c5.css",
+    "static/js/main.76efe3ed.js"
+  ]
+}
